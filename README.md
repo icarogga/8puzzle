@@ -13,6 +13,7 @@
    - [Sobre 📖](#sobre-)
    - [Funcionalidades 🛠️](#funcionalidades-%EF%B8%8F)
    - [Tecnologias 📲](#tecnologias-)
+   - [Gráfico 🏁](#grafico-)
    - [Como utilizar 🤔](#como-utilizar-)
 
    </p>
@@ -51,6 +52,21 @@
 -   **[MATPLOTLIB](https://matplotlib.org)**
 
    </p>
+
+---
+
+<h2 align="center">Gráfico 🏁</h2>
+
+   <p>
+
+- O gráfico da Heurística 1(Hill Climbing) é representado pela cor roxo
+- O gráfico da Heurística 2(Hill Climbing) é representado pela cor vermelho
+- O gráfico da Heurística 2(A*) é representado pela cor rosa
+- O gráfico da Heurística 2(A*) é representado pela cor laranja
+
+   </p>
+
+<img src="img/1.png" alt="grafico">
 
 ---
 
