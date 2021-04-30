@@ -57,16 +57,10 @@
 
 <h2 align="center">Gráfico 🏁</h2>
 
-<div align = "center">
-   <p>
-
-- O gráfico da Heurística 1(Hill Climbing) é representado pela cor roxo
-- O gráfico da Heurística 2(Hill Climbing) é representado pela cor vermelho
-- O gráfico da Heurística 2(A*) é representado pela cor rosa
-- O gráfico da Heurística 2(A*) é representado pela cor laranja
-
-   </p>
-</div>
+<h4 align="center">O gráfico da Heurística 1(Hill Climbing) é representado pela cor roxo</h4>
+<h4 align="center">O gráfico da Heurística 2(Hill Climbing) é representado pela cor vermelho 🛠️</h4>
+<h4 align="center">O gráfico da Heurística 2(A*) é representado pela cor rosa</h4>
+<h4 align="center">O gráfico da Heurística 2(A*) é representado pela cor laranja</h4>
    
 <div align = "center"><img src="img/1.png" alt="grafico"></div>
 
