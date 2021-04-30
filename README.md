@@ -66,7 +66,7 @@
 
    </p>
 
-<img src="img/1.png" alt="grafico">
+<img src="img/1.png" align = "center" alt="grafico">
 
 ---
 
