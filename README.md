@@ -73,7 +73,7 @@
    
    ```
 
-   [COLAB](https://colab.research.google.com/github/icarogga/8puzzle/blob/main/8puzzle.ipynb)**
+   link: **[COLAB](https://colab.research.google.com/github/icarogga/8puzzle/blob/main/8puzzle.ipynb)**
    
 
 ---
