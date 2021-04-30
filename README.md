@@ -57,7 +57,7 @@
 
 <h2 align="center">Gráfico 🏁</h2>
 
-   <p>
+   <p align = "center">
 
 - O gráfico da Heurística 1(Hill Climbing) é representado pela cor roxo
 - O gráfico da Heurística 2(Hill Climbing) é representado pela cor vermelho
