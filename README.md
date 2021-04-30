@@ -71,8 +71,10 @@
    ```
    É só utilizar o link do Colab 😉
    
-   [COLAB](https://colab.research.google.com/github/icarogga/8puzzle/blob/main/8puzzle.ipynb)**
    ```
+
+   [COLAB](https://colab.research.google.com/github/icarogga/8puzzle/blob/main/8puzzle.ipynb)**
+   
 
 ---
 
