@@ -65,8 +65,8 @@
 - O gráfico da Heurística 2(A*) é representado pela cor laranja
 
    </p>
-
-<img src="img/1.png" align = "center" alt="grafico">
+   
+<div align = "center"><img src="img/1.png" alt="grafico"></div>
 
 ---
 
